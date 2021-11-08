@@ -1,4 +1,4 @@
-# Портфолио 
+# Портфолио моих работ
 
 <h2> Вёрстка </h2>
 
@@ -22,6 +22,13 @@ https://aiganov.github.io/musichydra/ <br>
 
 
 <h2> Сайты на CMS Wodpress(конструктор Elementor) </h2>
+https://varyg.com/ <br>
+https://ivanichmos.ru/ <br>
 
-https://aiganov.github.io/radial-menu-hydrarp/ <br>
-https://aiganov.github.io/musichydra/
+http:/настоящий-якутский-нож.рф
+http://yakutskie-nozhi.ru/
+http:/развивающий-эко-конструктор.рф
+http://shampyra-mastera-oleynikov.ru/
+
+http://betonregion47.ru/
+https://verneom.ru/
