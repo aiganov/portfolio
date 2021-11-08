@@ -2,7 +2,7 @@
 
 <h2> Вёрстка </h2>
 
-https://aiganov.github.io/barbershop/
+https://aiganov.github.io/barbershop/ <br>
 https://aiganov.github.io/fronel/
 https://aiganov.github.io/AzotCentr/ 
 
