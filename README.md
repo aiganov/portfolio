@@ -3,20 +3,18 @@
 <h2> Вёрстка </h2>
 
 https://aiganov.github.io/barbershop/ <br>
-https://aiganov.github.io/fronel/
-https://aiganov.github.io/AzotCentr/ 
+https://aiganov.github.io/fronel/ <br>
+https://aiganov.github.io/AzotCentr/ <br>
+https://aiganov.github.io/EngelBuildingGroup/ <br>
 
-https://aiganov.github.io/EngelBuildingGroup/
+https://aiganov.github.io/alfagroup/ <br>
+https://aiganov.github.io/schneiderbau/ <br> 
+https://aiganov.github.io/zuckdirectology/ <br>
+https://aiganov.github.io/happinesstrees/ <br>
 
-https://aiganov.github.io/alfagroup/
-https://aiganov.github.io/schneiderbau/
-https://aiganov.github.io/zuckdirectology/
-https://aiganov.github.io/happinesstrees/
+https://aiganov.github.io/datamining/ <br>
+https://aiganov.github.io/moving-company/ <br>
 
-https://aiganov.github.io/datamining/
-https://aiganov.github.io/moving-company/ 
-
-
-Вёрстка игрового интерфейса:
+<h3>Вёрстка игрового интерфейса:</h3>
 https://aiganov.github.io/radial-menu-hydrarp/ 
 https://aiganov.github.io/musichydra/
